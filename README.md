@@ -19,7 +19,7 @@ This project processes and analyzes GRIB2 weather data from the German Weather S
 
 ---
 ## License
-This project is for educational and non-commercial use. You can add a proper license [here](https://choosealicense.com/).
+This project is for educational and non-commercial use.
 
 ---
 ### 3. Initialize Git and Push to GitHub
