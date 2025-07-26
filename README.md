@@ -18,7 +18,10 @@ This project processes and analyzes GRIB2 weather data from the German Weather S
 3. View results in the CSV files and plots.
 
 ---
+## License
+This project is for educational and non-commercial use. You can add a proper license [here](https://choosealicense.com/).
 
+---
 ### 3. Initialize Git and Push to GitHub
 If you have **Git** installed on your computer, open a terminal or command prompt, navigate to your project folder, and run:
 
@@ -29,3 +32,4 @@ git commit -m "Initial commit - GRIB2 weather data analysis project"
 git branch -M main
 git remote add origin https://github.com/yourusername/GRIB2-weather-data-analysis.git
 git push -u origin main
+
